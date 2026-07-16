@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "latest_version": "1.0.0",
+  "enabled": true,
+  "latest_version": "1.0.2",
   "version_name": "Foundation",
   "changelog": "Initial release.",
   "download_url": "https://raw.githubusercontent.com/sarita1983singh19-ops/it-sst-updates/main/Notes_Advanced_v2.html"
